@@ -1,0 +1,2 @@
+WindowsPlayer: clientVersionUpload 0.618.0.6180546
+WindowsStudio64: clientVersionUpload 0.618.0.6180546
